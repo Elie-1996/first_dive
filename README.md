@@ -1,16 +1,10 @@
 # first_dive
 
-A new Flutter project.
+A new Flutter project, which implements a simple Dice Roller Mobile Application.
 
-## Getting Started
+This project is a learning experience for me to use Dart and Flutter. An elementary project to familiarize myself with the tools available for Dart and Flutter. 
+At the time of this writing, I have been following through the course "Flutter and Dart - The Complete Guide [2023 Edition]". This marks the end of Section 2 of the course.
 
-This project is a starting point for a Flutter application.
+As I follow through this course, I will be making more projects with casual commits.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to look around.
